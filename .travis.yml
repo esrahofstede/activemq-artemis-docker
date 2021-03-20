@@ -73,7 +73,7 @@ before_install:
   - curl -L https://goss.rocks/install | sudo sh
 
 install:
-  - git clone https://github.com/vromero/activemq-artemis-docker.git ~/activemq-artemis-docker
+  - git clone https://github.com/esrahofstede/activemq-artemis-docker.git ~/activemq-artemis-docker
 
 before_script:
   - versionTag="${VERSION}${VARIANT:+-${VARIANT}}"

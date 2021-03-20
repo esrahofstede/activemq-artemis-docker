@@ -2,7 +2,7 @@
 
 Depending on your platform the build process may differ slightly. Support for as many build platforms as possible is provided in a best effort basis.
 
-If you consistently can reproduce a test failure, please search for it in the [issue tracker](https://github.com/vromero/activemq-artemis-docker/issues) or file a new issue.
+If you consistently can reproduce a test failure, please search for it in the [issue tracker](https://github.com/esrahofstede/activemq-artemis-docker/issues) or file a new issue.
 
 ## Prerequisites
 
